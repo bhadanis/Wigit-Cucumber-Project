@@ -7,7 +7,7 @@ formatter.feature({
   "keyword": "Feature"
 });
 formatter.before({
-  "duration": 6563967600,
+  "duration": 5037195000,
   "status": "passed"
 });
 formatter.background({
@@ -36,21 +36,21 @@ formatter.match({
   "location": "CarouselSteps.userIsOnHomePage()"
 });
 formatter.result({
-  "duration": 142362900,
+  "duration": 180682100,
   "status": "passed"
 });
 formatter.match({
   "location": "CarouselSteps.userClicksOnTheProductLink()"
 });
 formatter.result({
-  "duration": 246945200,
+  "duration": 255241700,
   "status": "passed"
 });
 formatter.match({
   "location": "CarouselSteps.userClicksOnWidgitOnlineLink()"
 });
 formatter.result({
-  "duration": 2085210700,
+  "duration": 2258950500,
   "status": "passed"
 });
 formatter.scenario({
@@ -75,7 +75,7 @@ formatter.match({
   "location": "CarouselSteps.userClicksOnRightNavigationButton()"
 });
 formatter.result({
-  "duration": 281474900,
+  "duration": 264233500,
   "status": "passed"
 });
 formatter.match({
@@ -88,15 +88,15 @@ formatter.match({
   "location": "CarouselSteps.theContentShiftsOnceToTheRightWithNewImgDisplayingText(String)"
 });
 formatter.result({
-  "duration": 123259400,
+  "duration": 123325100,
   "status": "passed"
 });
 formatter.after({
-  "duration": 983164800,
+  "duration": 801085900,
   "status": "passed"
 });
 formatter.before({
-  "duration": 3081760600,
+  "duration": 2719829700,
   "status": "passed"
 });
 formatter.background({
@@ -125,21 +125,21 @@ formatter.match({
   "location": "CarouselSteps.userIsOnHomePage()"
 });
 formatter.result({
-  "duration": 394800,
+  "duration": 279900,
   "status": "passed"
 });
 formatter.match({
   "location": "CarouselSteps.userClicksOnTheProductLink()"
 });
 formatter.result({
-  "duration": 504352200,
+  "duration": 461068800,
   "status": "passed"
 });
 formatter.match({
   "location": "CarouselSteps.userClicksOnWidgitOnlineLink()"
 });
 formatter.result({
-  "duration": 1556895800,
+  "duration": 3808126900,
   "status": "passed"
 });
 formatter.scenario({
@@ -164,7 +164,7 @@ formatter.match({
   "location": "CarouselSteps.userClicksOnLeftNavigationButton()"
 });
 formatter.result({
-  "duration": 293688700,
+  "duration": 189171500,
   "status": "passed"
 });
 formatter.match({
@@ -177,15 +177,15 @@ formatter.match({
   "location": "CarouselSteps.theContentShiftsOnceToTheLeftWithNewImgDisplayingText(String)"
 });
 formatter.result({
-  "duration": 658949300,
+  "duration": 665464000,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1170365800,
+  "duration": 880606000,
   "status": "passed"
 });
 formatter.before({
-  "duration": 3030386800,
+  "duration": 2810142200,
   "status": "passed"
 });
 formatter.background({
@@ -214,21 +214,21 @@ formatter.match({
   "location": "CarouselSteps.userIsOnHomePage()"
 });
 formatter.result({
-  "duration": 218000,
+  "duration": 238500,
   "status": "passed"
 });
 formatter.match({
   "location": "CarouselSteps.userClicksOnTheProductLink()"
 });
 formatter.result({
-  "duration": 594537900,
+  "duration": 611643100,
   "status": "passed"
 });
 formatter.match({
   "location": "CarouselSteps.userClicksOnWidgitOnlineLink()"
 });
 formatter.result({
-  "duration": 1543276900,
+  "duration": 2151077200,
   "status": "passed"
 });
 formatter.scenario({
@@ -253,7 +253,7 @@ formatter.match({
   "location": "CarouselSteps.userHasNavigatedThroughAllTheContent()"
 });
 formatter.result({
-  "duration": 3491976700,
+  "duration": 3931832400,
   "status": "passed"
 });
 formatter.match({
@@ -266,11 +266,11 @@ formatter.match({
   "location": "CarouselSteps.theCarouselGoesBackAndShowsTheFirstItemAgain(String)"
 });
 formatter.result({
-  "duration": 680586500,
+  "duration": 699906200,
   "status": "passed"
 });
 formatter.after({
-  "duration": 989015900,
+  "duration": 809810200,
   "status": "passed"
 });
 formatter.uri("src/test/java/com/widgit/featurefile/point.feature");
@@ -282,7 +282,7 @@ formatter.feature({
   "keyword": "Feature"
 });
 formatter.before({
-  "duration": 3120585500,
+  "duration": 3249421500,
   "status": "passed"
 });
 formatter.background({
@@ -306,14 +306,14 @@ formatter.match({
   "location": "PointSteps.userIsOnHomePage()"
 });
 formatter.result({
-  "duration": 321600,
+  "duration": 283300,
   "status": "passed"
 });
 formatter.match({
   "location": "PointSteps.userClicksOnAboutWidgitLink()"
 });
 formatter.result({
-  "duration": 1213357800,
+  "duration": 1069966000,
   "status": "passed"
 });
 formatter.scenario({
@@ -358,7 +358,7 @@ formatter.match({
   "location": "PointSteps.aWordHasAValidSymbolOrValidSymbols()"
 });
 formatter.result({
-  "duration": 28100,
+  "duration": 23100,
   "status": "passed"
 });
 formatter.match({
@@ -371,28 +371,28 @@ formatter.match({
   "location": "PointSteps.verifyTitleOfThePage(String)"
 });
 formatter.result({
-  "duration": 14086700,
+  "duration": 15533300,
   "status": "passed"
 });
 formatter.match({
   "location": "PointSteps.aUserHoversOverAWord()"
 });
 formatter.result({
-  "duration": 194825100,
+  "duration": 191577500,
   "status": "passed"
 });
 formatter.match({
   "location": "PointSteps.afterAShortDelay()"
 });
 formatter.result({
-  "duration": 79200,
+  "duration": 22900,
   "status": "passed"
 });
 formatter.match({
   "location": "PointSteps.theWordShouldBeHighlighted()"
 });
 formatter.result({
-  "duration": 60208000,
+  "duration": 87118300,
   "status": "passed"
 });
 formatter.match({
@@ -405,11 +405,11 @@ formatter.match({
   "location": "PointSteps.aSymbolOrMultipleSymbolsShouldAppearForThatContext(String)"
 });
 formatter.result({
-  "duration": 2451636200,
+  "duration": 2536285600,
   "status": "passed"
 });
 formatter.after({
-  "duration": 887997200,
+  "duration": 786610200,
   "status": "passed"
 });
 });

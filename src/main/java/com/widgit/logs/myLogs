@@ -1,21 +1,21 @@
-2021-04-25 22:04:590 INFO  BrowserSelector :22 - Launching Chrome Browser
-2021-04-25 22:04:605 INFO  CarouselPage :41 - User Clicks On The Product Link[[ChromeDriver: chrome on WINDOWS (8fcb77db4ef32cbb34afd4447d286daa)] -> xpath: //ul[@class='menu']/li/a[text()='Products']]
-2021-04-25 22:04:692 INFO  CarouselPage :48 - User Clicks On WidgitOnline Link[[ChromeDriver: chrome on WINDOWS (8fcb77db4ef32cbb34afd4447d286daa)] -> xpath: //div[@class='mega_block']//h2[text()='Widgit Online']]
-2021-04-25 22:04:976 INFO  CarouselPage :56 - User Clicks On Right Navigation Button[[ChromeDriver: chrome on WINDOWS (8fcb77db4ef32cbb34afd4447d286daa)] -> xpath: //button[text()='Next']]
-2021-04-25 22:04:21 INFO  CarouselPage :62 - The content shifts on the right[[ChromeDriver: chrome on WINDOWS (8fcb77db4ef32cbb34afd4447d286daa)] -> xpath: (//span[text()='Mind'])[1]]
-2021-04-25 22:04:641 INFO  BrowserSelector :22 - Launching Chrome Browser
-2021-04-25 22:04:679 INFO  CarouselPage :41 - User Clicks On The Product Link[[ChromeDriver: chrome on WINDOWS (ce53ead05dba8e62759135628979744b)] -> xpath: //ul[@class='menu']/li/a[text()='Products']]
-2021-04-25 22:04:238 INFO  CarouselPage :48 - User Clicks On WidgitOnline Link[[ChromeDriver: chrome on WINDOWS (ce53ead05dba8e62759135628979744b)] -> xpath: //div[@class='mega_block']//h2[text()='Widgit Online']]
-2021-04-25 22:04:534 INFO  CarouselPage :71 - User Clicks On Left Navigation Button[[ChromeDriver: chrome on WINDOWS (ce53ead05dba8e62759135628979744b)] -> xpath: //button[@aria-label='Previous']]
-2021-04-25 22:04:579 INFO  CarouselPage :75 - The content shifts once to the left with new img[[ChromeDriver: chrome on WINDOWS (ce53ead05dba8e62759135628979744b)] -> xpath: (//span[text()='EAL'])[3]]
-2021-04-25 22:04:923 INFO  BrowserSelector :22 - Launching Chrome Browser
-2021-04-25 22:04:994 INFO  CarouselPage :41 - User Clicks On The Product Link[[ChromeDriver: chrome on WINDOWS (85f01d064d4cc6993b971279b03b14f6)] -> xpath: //ul[@class='menu']/li/a[text()='Products']]
-2021-04-25 22:04:538 INFO  CarouselPage :48 - User Clicks On WidgitOnline Link[[ChromeDriver: chrome on WINDOWS (85f01d064d4cc6993b971279b03b14f6)] -> xpath: //div[@class='mega_block']//h2[text()='Widgit Online']]
-2021-04-25 22:04:568 INFO  CarouselPage :82 - userHasNavigatedThroughAllTheContentBy.xpath: //img[@alt='Symbol Communication Books']/../../parent::div/following-sibling::div[[ChromeDriver: chrome on WINDOWS (85f01d064d4cc6993b971279b03b14f6)] -> xpath: //button[text()='Next']]
-2021-04-25 22:04:75 INFO  CarouselPage :90 - userHasNavigatedThroughAllTheContentBy.xpath: //img[@alt='Symbol Communication Books']/../../parent::div/following-sibling::div[[ChromeDriver: chrome on WINDOWS (85f01d064d4cc6993b971279b03b14f6)] -> xpath: //button[text()='Next']]Flashcards
-2021-04-25 22:04:251 INFO  BrowserSelector :22 - Launching Chrome Browser
-2021-04-25 22:04:44 INFO  CarouselPage :30 - User Clicks On AboutWidgit Link[[ChromeDriver: chrome on WINDOWS (5c177dec783e0e39040ac83b92051acf)] -> xpath: //a[text()='About Widgit']]
-2021-04-25 22:04:60 INFO  CarouselPage :37 - verify Title of ThePageAbout Us | Widgit
-2021-04-25 22:04:256 INFO  CarouselPage :43 - User mouse hover on word[[ChromeDriver: chrome on WINDOWS (5c177dec783e0e39040ac83b92051acf)] -> xpath: (//p[@class='txtgreylarge acenter']/span)[position()=7]]
-2021-04-25 22:04:320 INFO  CarouselPage :49 - The Word ShouldBe Highlighted[[ChromeDriver: chrome on WINDOWS (5c177dec783e0e39040ac83b92051acf)] -> xpath: (//p[@class='txtgreylarge acenter']/span)[position()=7]]
-2021-04-25 22:04:772 INFO  CarouselPage :57 - Symbol should appear on the contextBy.xpath: //div[@id='point_Point.tooltipDiv']/p
+2021-04-26 10:04:540 INFO  BrowserSelector :22 - Launching Chrome Browser
+2021-04-26 10:04:934 INFO  CarouselPage :41 - User Clicks On The Product Link[[ChromeDriver: chrome on WINDOWS (49c4ccace826f56cb4cc912fb92dd950)] -> xpath: //ul[@class='menu']/li/a[text()='Products']]
+2021-04-26 10:04:193 INFO  CarouselPage :48 - User Clicks On WidgitOnline Link[[ChromeDriver: chrome on WINDOWS (49c4ccace826f56cb4cc912fb92dd950)] -> xpath: //div[@class='mega_block']//h2[text()='Widgit Online']]
+2021-04-26 10:04:461 INFO  CarouselPage :56 - User Clicks On Right Navigation Button[[ChromeDriver: chrome on WINDOWS (49c4ccace826f56cb4cc912fb92dd950)] -> xpath: //button[text()='Next']]
+2021-04-26 10:04:507 INFO  CarouselPage :62 - The content shifts on the right[[ChromeDriver: chrome on WINDOWS (49c4ccace826f56cb4cc912fb92dd950)] -> xpath: (//span[text()='Mind'])[1]]
+2021-04-26 10:04:650 INFO  BrowserSelector :22 - Launching Chrome Browser
+2021-04-26 10:04:575 INFO  CarouselPage :41 - User Clicks On The Product Link[[ChromeDriver: chrome on WINDOWS (65ab5d243bf39d24e0fdc74ac56f165e)] -> xpath: //ul[@class='menu']/li/a[text()='Products']]
+2021-04-26 10:04:385 INFO  CarouselPage :48 - User Clicks On WidgitOnline Link[[ChromeDriver: chrome on WINDOWS (65ab5d243bf39d24e0fdc74ac56f165e)] -> xpath: //div[@class='mega_block']//h2[text()='Widgit Online']]
+2021-04-26 10:04:575 INFO  CarouselPage :71 - User Clicks On Left Navigation Button[[ChromeDriver: chrome on WINDOWS (65ab5d243bf39d24e0fdc74ac56f165e)] -> xpath: //button[@aria-label='Previous']]
+2021-04-26 10:04:609 INFO  CarouselPage :75 - The content shifts once to the left with new img[[ChromeDriver: chrome on WINDOWS (65ab5d243bf39d24e0fdc74ac56f165e)] -> xpath: (//span[text()='EAL'])[3]]
+2021-04-26 10:04:471 INFO  BrowserSelector :22 - Launching Chrome Browser
+2021-04-26 10:04:549 INFO  CarouselPage :41 - User Clicks On The Product Link[[ChromeDriver: chrome on WINDOWS (39c1a3ea4b646c5318e7c7a1719f71f6)] -> xpath: //ul[@class='menu']/li/a[text()='Products']]
+2021-04-26 10:04:702 INFO  CarouselPage :48 - User Clicks On WidgitOnline Link[[ChromeDriver: chrome on WINDOWS (39c1a3ea4b646c5318e7c7a1719f71f6)] -> xpath: //div[@class='mega_block']//h2[text()='Widgit Online']]
+2021-04-26 10:04:733 INFO  CarouselPage :82 - userHasNavigatedThroughAllTheContentBy.xpath: //img[@alt='Symbol Communication Books']/../../parent::div/following-sibling::div[[ChromeDriver: chrome on WINDOWS (39c1a3ea4b646c5318e7c7a1719f71f6)] -> xpath: //button[text()='Next']]
+2021-04-26 10:04:665 INFO  CarouselPage :90 - userHasNavigatedThroughAllTheContentBy.xpath: //img[@alt='Symbol Communication Books']/../../parent::div/following-sibling::div[[ChromeDriver: chrome on WINDOWS (39c1a3ea4b646c5318e7c7a1719f71f6)] -> xpath: //button[text()='Next']]Flashcards
+2021-04-26 10:04:551 INFO  BrowserSelector :22 - Launching Chrome Browser
+2021-04-26 10:04:473 INFO  CarouselPage :30 - User Clicks On AboutWidgit Link[[ChromeDriver: chrome on WINDOWS (7cc8227a928a55728dee9ac6e9319d0a)] -> xpath: //a[text()='About Widgit']]
+2021-04-26 10:04:492 INFO  CarouselPage :37 - verify Title of ThePageAbout Us | Widgit
+2021-04-26 10:04:684 INFO  CarouselPage :43 - User mouse hover on word[[ChromeDriver: chrome on WINDOWS (7cc8227a928a55728dee9ac6e9319d0a)] -> xpath: (//p[@class='txtgreylarge acenter']/span)[position()=7]]
+2021-04-26 10:04:773 INFO  CarouselPage :49 - The Word ShouldBe Highlighted[[ChromeDriver: chrome on WINDOWS (7cc8227a928a55728dee9ac6e9319d0a)] -> xpath: (//p[@class='txtgreylarge acenter']/span)[position()=7]]
+2021-04-26 10:04:310 INFO  CarouselPage :57 - Symbol should appear on the contextBy.xpath: //div[@id='point_Point.tooltipDiv']/p

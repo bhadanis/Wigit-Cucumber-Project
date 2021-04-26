@@ -11,8 +11,7 @@ Selenium Webdriver : 3.141.59
 
 Report Details:
 Extent Report :
-http://localhost:63342/widgit_project/target/Extent_Reports/report.html?_ijt=afvdn50641v6uki55r2ntm72iu
+http://localhost:63342/widgit_project/target/Extent_Reports/report.html?_ijt=g8ehro81g0l3uohga8rcni95qh
 
 Cucumber Report:
-http://localhost:63342/widgit_project/target/cucumber-report/cucumber.html/index.html?_ijt=8vt089mtf3q9606790thddk0ar
-
+http://localhost:63342/widgit_project/target/cucumber-report/cucumber.html/index.html?_ijt=g8ehro81g0l3uohga8rcni95qh
